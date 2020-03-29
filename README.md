@@ -4,3 +4,4 @@ Practice on using variables and array: I used the variable to define/state my na
 I used the array to list my courses.
 I also created a loop making use of odd numbers from 1-200 since the total number of my course (3) is an odd number.
 I had to study with the provided resources on W3schools which was mainly about learning to create a loop in javascript.
+: https://github.com/virtuoushands/Startng-JS-task.git
